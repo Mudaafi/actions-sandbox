@@ -1,0 +1,22 @@
+{
+  "name": "actions-sanbox",
+  "version": "1.0.0",
+  "description": "Testing things",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Tests ran\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mudaafi/actions-sandbox.git"
+  },
+  "keywords": [
+    "testing"
+  ],
+  "author": "mudaafi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mudaafi/actions-sandbox/issues"
+  },
+  "homepage": "https://github.com/Mudaafi/actions-sandbox#readme"
+}
