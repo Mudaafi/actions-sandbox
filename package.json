@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Mudaafi/actions-sandbox/issues"
   },
-  "homepage": "https://github.com/Mudaafi/actions-sandbox#readme"
+  "homepage": "https://github.com/Mudaafi/actions-sandbox#readme",
+  "dependencies": {
+    "classnames": "^2.5.1"
+  }
 }
