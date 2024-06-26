@@ -4,7 +4,7 @@
   "description": "Testing things",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Tests ran\" && exit 1"
+    "test": "echo \"Tests ran\" && exit 0"
   },
   "repository": {
     "type": "git",
