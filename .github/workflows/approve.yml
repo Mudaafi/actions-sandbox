@@ -1,7 +1,8 @@
 name: Testing Approval
 on:
   pull_request:
-    types: [opened]
+    branches:
+      - "**"
 
 permissions:
   pull-requests: write
